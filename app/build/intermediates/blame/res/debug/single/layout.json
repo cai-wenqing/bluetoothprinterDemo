@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\bluetoothprinter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unbonddevice_item.xml",
+        "source": "D:\\bluetoothprinter\\app\\src\\main\\res\\layout\\unbonddevice_item.xml"
+    },
+    {
+        "merged": "D:\\bluetoothprinter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bonddevice_item.xml",
+        "source": "D:\\bluetoothprinter\\app\\src\\main\\res\\layout\\bonddevice_item.xml"
+    },
+    {
+        "merged": "D:\\bluetoothprinter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\printdata_layout.xml",
+        "source": "D:\\bluetoothprinter\\app\\src\\main\\res\\layout\\printdata_layout.xml"
+    },
+    {
+        "merged": "D:\\bluetoothprinter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bluetooth_layout.xml",
+        "source": "D:\\bluetoothprinter\\app\\src\\main\\res\\layout\\bluetooth_layout.xml"
+    }
+]
